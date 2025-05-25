@@ -1,4 +1,4 @@
-container:
+arm_container:
   image: ubuntu:22.04
   cpu: 2
   memory: 2G
